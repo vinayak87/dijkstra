@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 20 20:26:39 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0167-cc1e-542c-000000d76030 
+on database directory G:\Seagate Dashboard 2.0\WP6PORTAL\springboot\demo\test with class loader sun.misc.Launcher$AppClassLoader@b4aac2 
+Loaded from file:/C:/Users/intel/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=G:\Seagate Dashboard 2.0\WP6PORTAL\springboot\demo
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
